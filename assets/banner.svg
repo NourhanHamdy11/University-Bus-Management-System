@@ -1,0 +1,44 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2A6B"/>
+      <stop offset="100%" stop-color="#1E4FA0"/>
+    </linearGradient>
+    <linearGradient id="stripe" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#AFCBEF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#AFCBEF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <!-- diagonal band motif, echoing the source deck's cover page -->
+  <polygon points="0,320 520,320 760,60 480,60" fill="#123B85" opacity="0.9"/>
+  <polygon points="0,320 420,320 660,60 520,60" fill="url(#stripe)"/>
+
+  <!-- gold accent dots, echoing the source deck's cover page -->
+  <g fill="#E8B84B" opacity="0.85">
+    <circle cx="60" cy="255" r="2.2"/><circle cx="80" cy="270" r="1.6"/><circle cx="100" cy="250" r="1.8"/>
+    <circle cx="45" cy="230" r="1.4"/><circle cx="120" cy="265" r="2"/><circle cx="70" cy="290" r="1.5"/>
+    <circle cx="140" cy="240" r="1.3"/><circle cx="95" cy="225" r="1.7"/><circle cx="30" cy="270" r="1.5"/>
+  </g>
+
+  <!-- simple bus glyph -->
+  <g transform="translate(1000,110)">
+    <rect x="0" y="20" width="220" height="110" rx="18" fill="#FFFFFF"/>
+    <rect x="0" y="20" width="220" height="110" rx="18" fill="none" stroke="#0F2A6B" stroke-width="3" opacity="0.15"/>
+    <rect x="18" y="38" width="46" height="34" rx="6" fill="#1E4FA0"/>
+    <rect x="74" y="38" width="46" height="34" rx="6" fill="#1E4FA0"/>
+    <rect x="130" y="38" width="46" height="34" rx="6" fill="#1E4FA0"/>
+    <rect x="18" y="86" width="158" height="10" rx="5" fill="#E8B84B"/>
+    <circle cx="45" cy="140" r="16" fill="#0F2A6B"/>
+    <circle cx="45" cy="140" r="6" fill="#FFFFFF"/>
+    <circle cx="175" cy="140" r="16" fill="#0F2A6B"/>
+    <circle cx="175" cy="140" r="6" fill="#FFFFFF"/>
+  </g>
+
+  <text x="64" y="140" font-family="Verdana, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3" fill="#E8B84B">CAMPUS TRANSPORTATION · SOFTWARE DESIGN</text>
+  <text x="64" y="200" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">University Bus</text>
+  <text x="64" y="258" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">Management System</text>
+  <text x="66" y="288" font-family="Verdana, Arial, sans-serif" font-size="16" fill="#CFE0F7">Requirements · UML Modeling · System Architecture</text>
+</svg>
