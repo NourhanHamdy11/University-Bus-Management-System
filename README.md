@@ -289,15 +289,6 @@ University-Bus-Management-System/
 - [ ] Add offline-tolerant QR validation for connectivity dead zones.
 - [ ] Add automated testing and a CI/CD pipeline once implementation begins.
 
-## 🤝 Contributing
-
-Contributions, corrections, and design discussions are welcome — please read **[`CONTRIBUTING.md`](CONTRIBUTING.md)** and **[`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md)** first.
-
-
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see [`LICENSE`](LICENSE) for details.
 
 ## 📬 Contact
 
