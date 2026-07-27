@@ -305,7 +305,7 @@ This project is licensed under the **MIT License** — see [`LICENSE`](LICENSE) 
 
 For questions about this repository, reach out via GitHub Issues, or update the details below with your own:
 
-📧 `your.email@example.com` &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-hamdy-4267a228a/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/NourhanHamdy11)
+📧 `nourhanhamdy1711@gmail.com` &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nourhan-hamdy-4267a228a/) &nbsp;|&nbsp; 🐙 [GitHub](https://github.com/NourhanHamdy11)
 
 <sub>Made with 🚌 for smarter campus transportation.</sub>
 
